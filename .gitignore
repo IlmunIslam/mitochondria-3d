@@ -1,0 +1,13 @@
+# Blender autosaves / backups
+*.blend1
+*.blend2
+*.blend@
+
+# Render output
+/renders/tmp/
+*.exr
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini

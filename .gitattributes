@@ -1,0 +1,8 @@
+# Binary asset formats — never diff or merge as text.
+# (No Git LFS: both binaries here are a few MB, so plain Git keeps
+#  the repo trivially clonable.)
+*.blend binary
+*.fbx   binary
+*.FBX   binary
+*.png   binary
+*.jpg   binary
